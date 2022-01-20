@@ -1,0 +1,18 @@
+Implement console application (mandatory)
+  - Read txt file and split it by lines
+  - Calculate statistics for each line and whole file:
+  -- longest word (symbols between 2 spaces),
+  -- shortest word,
+  -- line length,
+  -- average word length,
+  -- duplication of the words.
+
+  - Store line and file statistic into DB (with JDBC).
+
+
+Optional tasks
+  - Add unit tests
+
+Preferred to use maven as the build tool
+The project should be placed in GitHub (or other shared repository) and be buildable
+Please add ReadMe file with information and command for run the app
